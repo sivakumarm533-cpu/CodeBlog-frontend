@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <>
-    <section className="navbar p-3 ms-5 me-5 rounded-bottom-5 position-sticky top-0 z-3 bg-white shadow-sm" >
+    <section className="navbar p-3 mx-lg-5 mx-md-3 rounded-bottom-5 position-sticky top-0 z-3 bg-white shadow-sm" >
       <div className="container d-flex align-items-center justify-content-between">
         
         {/* Logo */}

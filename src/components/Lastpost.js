@@ -18,7 +18,7 @@ const Lastpost = () => {
   if (error) return <div className='text-center text-danger fw-bold pt-5 d-none'>{error}</div>
   return (
     <>
-    <section id="posts" class="posts py-5 mx-5 mt-3 rounded-4 mb-3">
+    <section id="posts" class="posts py-5 mx-lg-5 mx-md-3 mx-sm-1  mt-md-3 mt-sm-2 rounded-4 mb-3">
     <div class="container">
       <div class="d-flex align-items-end justify-content-between mb-4">
         <div>
