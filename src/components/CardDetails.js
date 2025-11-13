@@ -34,7 +34,7 @@ const CardDetails = () => {
   if (error) return <div className="text-center text-danger pt-5">{error}</div>;
 
   return (
-    <section className="CardDetails py-5">
+    <section className="CardDetails py-md-5 py-sm-2">
       <div className="container">
         <div className="row g-4">
 

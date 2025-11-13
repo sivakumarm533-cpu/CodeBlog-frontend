@@ -18,9 +18,9 @@ const Cards = () => {
   if (error) return <div className='text-center text-danger fw-bold pt-5'>{error}</div>;
 
   return (
-    <section className="Cardlist py-5 bg-light">
+    <section className="Cardlist py-md-5 py-sm-3 bg-light">
       <div className="container">
-        <h2 className="fw-bold text-center mb-5">Latest Blog Posts</h2>
+        <h2 className="fw-bold text-center mb-md-5 mb-sm-3">Latest Blog Posts</h2>
 
         <div className="row g-4 justify-content-center">
           {blogs.slice(0, 12).map((blog) => (
