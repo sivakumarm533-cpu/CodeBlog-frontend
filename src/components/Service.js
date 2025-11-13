@@ -3,7 +3,7 @@ import React from 'react'
 const Service = () => {
   return (
     <>
-    <section className='service mx-lg-5 mx-md-3 mx-sm-1  mt-md-3 mt-sm-2 rounded-4 py-2'>
+    <section className='service mx-lg-5 mx-md-3 mx-sm-1  mt-md-3 mt-sm-2 mt-2 rounded-4 py-2'>
         <div className='container'>
 
             {/* Heading */}

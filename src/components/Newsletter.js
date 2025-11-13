@@ -3,7 +3,7 @@ import React from 'react'
 const Newsletter = () => {
   return (
     <>
-    <section id="newsletter" class="newsletter mx-lg-5 mx-md-3 mx-sm-1  pt-md-3 pt-sm-2 rounded-4">
+    <section id="newsletter" class="newsletter mx-lg-5 mx-md-3 mx-sm-1  pt-md-3 pt-sm-2 pt-2 rounded-4">
     <div class="container">
       <div class="row align-items-center py-5 g-3">
         <div class="col-lg-6">

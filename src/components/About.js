@@ -4,7 +4,7 @@ import Img from '../assets/images/banner-images/about.jpg'
 const About = () => {
   return (
     <>
-    <section id="about" class="about py-5 mx-lg-5 mx-md-3 mx-sm-1  mt-md-3 mt-sm-2 rounded-4">
+    <section id="about" class="about py-5 mx-lg-5 mx-md-3 mx-sm-1  mt-md-3 mt-sm-2 mt-2 rounded-4">
       <div class="container">
         <div class="row align-items-center g-4">
           <div class="col-lg-6 mt-0">
