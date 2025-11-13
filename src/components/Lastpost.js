@@ -25,7 +25,8 @@ const Lastpost = () => {
           <h2 class="section-title fw-bold mb-0">Latest Posts</h2>
           <p class="text-muted mb-0">Fresh reads to level up your skills.</p>
         </div>
-        <a class="btn btn-outline-secondary rounded-pill "><Link to={'/bloglist'} className='text-decoration-none text-muted'>View All</Link></a>
+        <Link to="/bloglist" className="btn btn-outline-secondary rounded-pill text-decoration-none text-muted">View All</Link>
+
       </div>
 
       <div class="row g-4 justify-content-center">

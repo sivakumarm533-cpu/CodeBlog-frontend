@@ -60,9 +60,14 @@ const CardDetails = () => {
 
               {/* Social Icons */}
               <div className="d-flex justify-content-center gap-3 mt-3">
-                <a href="#" className="text-dark"><i className="bi bi-twitter-x fs-5"></i></a>
-                <a href="#" className="text-dark"><i className="bi bi-instagram fs-5"></i></a>
-                <a href="#" className="text-dark"><i className="bi bi-discord fs-5"></i></a>
+
+                <button className="btn p-0 border-0 bg-transparent text-dark">
+                  <i className="bi bi-twitter-x fs-5"></i></button>
+                <button className="btn p-0 border-0 bg-transparent text-dark">
+                  <i className="bi bi-instagram fs-5"></i></button>
+                <button className="btn p-0 border-0 bg-transparent text-dark">
+                  <i className="bi bi-discord fs-5"></i></button>
+                  
               </div>
 
             </div>

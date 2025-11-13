@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-    <footer class="footer text-light pt-5 pb-4 mt-5">
+    <footer className="footer text-light pt-5 pb-4 mt-5">
   <div class="container">
     <div class="row gy-4">
 
@@ -15,10 +15,10 @@ const Footer = () => {
           We share tutorials, tips, and insights to help you build modern web projects with confidence.
         </p>
         <div class="d-flex gap-3 mt-3">
-          <a href="#" class="text-light fs-5"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="text-light fs-5"><i class="bi bi-twitter-x"></i></a>
-          <a href="#" class="text-light fs-5"><i class="bi bi-linkedin"></i></a>
-          <a href="#" class="text-light fs-5"><i class="bi bi-github"></i></a>
+          <a href="#facebook" class="text-light fs-5"><i class="bi bi-facebook"></i></a>
+          <a href="#twitter" class="text-light fs-5"><i class="bi bi-twitter-x"></i></a>
+          <a href="#linkdin" class="text-light fs-5"><i class="bi bi-linkedin"></i></a>
+          <a href="#git" class="text-light fs-5"><i class="bi bi-github"></i></a>
         </div>
       </div>
 
@@ -38,10 +38,10 @@ const Footer = () => {
       <div class="col-lg-2 col-md-4 ">
         <h6 class="text-uppercase fw-bold mb-3">Support</h6>
         <ul class="list-unstyled text-muted-light">
-          <li class="mb-2"><a href="#" class="text-decoration-none text-muted-light">FAQ</a></li>
-          <li class="mb-2"><a href="#" class="text-decoration-none text-muted-light">Privacy Policy</a></li>
-          <li class="mb-2"><a href="#" class="text-decoration-none text-muted-light">Terms & Conditions</a></li>
-          <li><a href="#" class="text-decoration-none text-muted-light">Contact Us</a></li>
+          <li class="mb-2"><a href="#faq" class="text-decoration-none text-muted-light">FAQ</a></li>
+          <li class="mb-2"><a href="#privacy" class="text-decoration-none text-muted-light">Privacy Policy</a></li>
+          <li class="mb-2"><a href="#faqtearm" class="text-decoration-none text-muted-light">Terms & Conditions</a></li>
+          <li><a href="#contact" class="text-decoration-none text-muted-light">Contact Us</a></li>
         </ul>
       </div>
 
@@ -63,7 +63,7 @@ const Footer = () => {
       <p class="mb-0 small text-muted-light">
         © <span id="year"></span> <strong>CodeBlog</strong>. All rights reserved.
       </p>
-      <a href="#hero" class="btn btn-sm btn-outline-secondar rounded-pill"><i class="bi bi-arrow-up"></i> Back to top</a>
+      <a href="#hero" class="btn btn-sm btn-outline-secondary rounded-pill"><i class="bi bi-arrow-up"></i> Back to top</a>
     </div>
   </div>
 </footer>
