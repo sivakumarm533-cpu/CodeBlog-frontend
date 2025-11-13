@@ -1,0 +1,334 @@
+/* =============================
+        root section
+================================*/
+:root {
+  --primary: #3A8DFF;          /* Light bright blue */
+  --primary-dark: #1E6FDB;     /* Slightly darker for hover */
+  --primary-light: #E9F2FF;    /* Very light tint for backgrounds */
+
+  --accent: #FFB703;           /* Same warm accent (works well with blue) */
+  --accent-dark: #FF9800;
+
+  --bg-light: #FFFFFF;         /* Clean white background */
+  --bg-light-dark: #faf7f7;
+  --bg-dark: #0F172A;          /* Light grey-blue for sections */
+
+  --text-dark: #0F172A;        /* Dark navy text (not pure black) */
+  --text-light: #FFFFFF;       /* White text for buttons/nav */
+  --text-muted: #64748bd0;       /* Muted text */
+  --text-muted-light: #627d95;
+
+  --border: #D7E3F4;           /* Soft border */
+  --card-bg: #FFFFFF;          /* Card background */
+
+  --gradient: linear-gradient(135deg, #3A8DFF 0%, #1E6FDB 100%);
+}
+
+
+/* Buttons */
+.btn-primary {
+  background: var(--primary);
+  color: #fff;
+  border-radius: 6px;
+  padding: 10px 18px;
+  transition: 0.3s;
+}
+.btn-primary:hover {
+  background: var(--primary-dark);
+}
+.btn-light{
+    background: var(--bg-light);
+    color: #000000;
+    border-radius: 6px;
+    padding: 10px 18px;
+    transition: 0.3s;
+}
+.btn-dark{
+    background-color: var(--bg-dark) !important;
+}
+.btn-dark:hover{
+    background-color: #182544ef !important;
+}
+.btn-outline-secondar{
+    color: var(--text-muted-light) !important;
+    border:1px solid var(--text-muted-light);
+}
+.btn-outline-secondar:hover{
+    color: var(--text-light) !important;
+    border:1px solid var(--text-muted-light);
+    background-color: var(--text-muted);
+}
+
+.bg-dark{
+    background-color: var(--bg-dark) !important;
+}
+.text-muted-light{
+    color: var(--text-muted-light) !important;
+}
+
+body{
+    background-color: var(--bg-light-dark);
+    font-family: "TASA Explorer", sans-serif;
+}
+
+/* ==============================
+        navbar section
+================================= */
+.navbar{
+    background-color: var(--bg-light);
+}
+.nav-items ul li a{
+    text-decoration: none;
+}
+.navbar .menu{
+    cursor: pointer;
+}
+.navbar .nav-link:hover {
+  color: var(--primary);
+}
+@media (max-width: 768px) and (min-width: 200px) {
+  .navbar {
+    padding: 1rem !important;
+  }
+
+  .navbar .container {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px;
+  }
+
+  .nav-items {
+    /* hidden by default */
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transform: translateY(-10px);
+    visibility: hidden;
+    transition: all 0.4s ease;
+
+    flex-direction: column !important;
+    width: 100%;
+    background: #f8f9fa;
+    border-radius: 20px;
+    padding: 0 1rem;
+  }
+
+  .nav-items ul {
+    flex-direction: column !important;
+    width: 100%;
+    padding: 0;
+  }
+
+  .nav-items ul li {
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .menu {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    cursor: pointer;
+  }
+
+  /* === Animated show state === */
+  .show-menu {
+    display: flex !important;
+    max-height: 400px;
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+    padding: 1rem;
+  }
+}
+
+
+
+
+/* ==============================
+        Hero section
+================================= */
+.banner{
+    /* background-color: var(--primary); */
+    background-image: url('../images/banner-images/b3.jpg');
+    background-size: cover;
+}
+
+.banner-content h1{
+    font-size: 40px;
+}
+@media (max-width: 576px) and (min-width:200px) {
+    .banner-image{
+        display: none !important;
+    }
+}
+
+
+/* ==============================
+        CardDetails section
+================================= */
+.CardDetails{
+    background: var(--bg-light-dark);
+}
+.CardDetails h1, 
+.CardDetails h4, 
+.CardDetails h5 {
+  color: var(--primary);
+}
+.CardDetails .blog-text p {
+  line-height: 1.7;
+}
+
+/* Sidebar / User section */
+.user-profile, .categories, .tags{
+    background-color: var(--bg-light);
+}
+
+/* user categories */
+.user-categories{
+    background-color: var(--bg-light);
+}
+.underline-title {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+
+.underline-title::after {
+  content: "";
+  position: absolute;
+  left: -15px;
+  bottom: 16px;
+  width: 30px;       /* underline length */
+  height: 3px;      /* thickness */
+  rotate: calc(90deg);       
+  background: var(--primary);
+  border-radius: 4px;
+}
+.user-categories h5{
+    color: var(--text-muted);
+}
+
+/* user tags */
+.user-tags{
+    background-color: var(--bg-light);
+}
+
+
+/* --- blog content --- */
+.blog-content{
+    background-color: var(--bg-light);
+}
+.meta{
+    background-color: var(--primary-light);
+}
+@media (max-width: 991px){
+  .CardDetails .row{
+    flex-direction: column-reverse;
+  }
+}
+
+/* ===================================
+        Create Blog
+===================================== */
+.form{
+    background-color: var(--primary);
+    border: 1px solid var(--border);
+}
+.create-blog input,
+.create-blog textarea {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.create-blog input:focus,
+.create-blog textarea:focus {
+  box-shadow: none;
+  border-color: var(--primary);
+}
+
+.create-blog .form-label {
+  font-weight: 600;
+}
+.create-blog h2, label{
+  color: var(--primary);
+}
+
+
+/* ===================================
+        cards
+=====================================*/
+.Cardlist{
+    background-color: var(--primary);
+}
+.card{
+    background-color: var(--card-bg);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+}
+.card-title{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card-description{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: var(--text-muted);
+}
+.metaData h6{
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+/* ===================================
+        Service section
+=====================================*/
+.service{
+    background-color: var(--primary);
+    
+}
+.serv-content{
+    background-color: var(--bg-light);
+
+}
+#serv-one{
+    background-color: var(--bg-dark);
+    color: var(--text-light);
+}
+
+/* ==============================
+        About section
+================================= */
+.about{
+    background-color: var(--bg-light);
+    border-radius: 3px solid var(--primary);
+}
+
+/* ==============================
+        post section
+================================= */
+.posts{
+    background-color: var(--bg-light);
+}
+
+/* ==============================
+        newsletter section
+================================= */
+.newsletter{
+    background-color: var(--primary);
+    
+}
+
+/* ==============================
+        footer section
+================================= */
+.footer{
+    background-color: var(--bg-dark);
+}

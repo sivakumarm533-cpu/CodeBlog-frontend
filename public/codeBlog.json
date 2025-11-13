@@ -1,0 +1,147 @@
+[
+  {
+    "_id": "1",
+    "title": "AI Revolution in 2025: What’s Next?",
+    "author": "Dr. Kevin Brooks",
+    "categories": "Tech",
+    "shortDescription": "A quick look at how AI will reshape industries in 2025.",
+    "description": "AI Revolution in 2025: What’s Next? explores the key shifts redefining software and hardware in real-world products.\nEnterprises are moving from pilot projects to production-grade deployments with clear ROI.\nEdge devices now combine local inference with cloud coordination to reduce latency and cost.\nResponsible design is no longer optional as teams adopt model cards and transparency reports.\nOpen-source communities continue to accelerate experimentation and knowledge sharing.\nDevelopers are embracing automation for testing, integration, and safe continuous delivery.\nToolchains are consolidating, but interoperability and open standards remain critical.\nSecurity-by-design is shifting left with automated scanning and dependency hygiene.\nTeams are measuring energy use and optimizing workloads to meet sustainability goals.\nUser expectations are shaped by instant feedback, natural interfaces, and reliability.\nEducation is adapting with project-based learning and hands-on sandbox environments.\nVenture funding favors durable moats like data advantage and developer ecosystems.\nStartups are partnering with incumbents to access domain data and regulated markets.\nRegulators are drafting risk-tiered rules to balance safety with innovation speed.\nProcurement teams demand benchmarks, auditability, and clear incident playbooks.\nAPIs are the contract for collaboration, enabling modular platforms and reuse.\nReal-time analytics unlock personalization, fraud detection, and ops visibility.\nHuman-in-the-loop workflows keep experts in control for critical decisions.\nRoadmaps emphasize reliability, observability, and graceful degradation strategies.\nThe winners will combine technical excellence with thoughtful product experience and trust.",
+    "image": "https://img.freepik.com/free-vector/artificial-intelligence-concept-design-with-face_1017-18296.jpg?w=1480",
+    "profileImage": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1480",
+    "date": "2025-01-02",
+    "__v": 0
+  },
+  {
+    "_id": "2",
+    "title": "Best Travel Destinations for Solo Backpackers",
+    "author": "Emily Carter",
+    "categories": "Travel",
+    "shortDescription": "Top 5 budget-friendly places for solo travelers.",
+    "description": "Best Travel Destinations for Solo Backpackers gathers practical tips that help travelers feel confident and curious on the road.\nBudget planning starts with off-season calendars and flexible flight alerts.\nBackpack weight matters; choose quick-dry clothing and compressible layers.\nLocal transport cards often reduce costs while simplifying city navigation.\nStay in neighborhoods with access to markets, parks, and early breakfast options.\nBuy travel insurance that covers medical, cancellations, and adventure activities.\nUse offline maps, phrase books, and emergency contacts stored on your phone.\nCultural etiquette builds respect and better interactions.\nStreet food can be safe when you pick busy stalls with fast turnover.\nSplit long journeys with scenic stops to reduce fatigue.\nPhotograph documents and keep copies in a secure cloud folder.\nSustainable choices include refillable bottles, local guides, and rail routes.\nTrack spending daily; small savings compound.\nSolo travelers should share itineraries and check-in regularly.\nEarly starts beat crowds for popular spots.\nLearn local phrases to improve experience.\nMove slower to enjoy depth over speed.\nRespect nature and preserve trails.\nCapture memories but stay present.\nReturn with notes to improve future trips.",
+    "image": "https://img.freepik.com/premium-photo/woman-is-standing-beach-with-backpack-looking-out-ocean_78492-45261.jpg?w=1480",
+    "profileImage": "https://img.freepik.com/free-photo/portrait-smiling-blonde-woman_23-2148316635.jpg?w=1060",
+    "date": "2025-01-02",
+    "__v": 0
+  },
+  {
+    "_id": "3",
+    "title": "10-Minute Daily Workout for Busy People",
+    "author": "Sarah Mitchell",
+    "categories": "Health",
+    "shortDescription": "Quick exercises to stay fit without a gym.",
+    "description": "10-Minute Daily Workout for Busy People focuses on small, realistic habits that compound into major health gains.\nBegin with a baseline: sleep hours, steps, hydration, and mood tracking.\nConsistency outruns intensity; short daily sessions build durable routines.\nWarm-ups protect joints; cool-downs aid recovery.\nNutrition is pattern-based: plants, fiber, and protein.\nMeal prep prevents bad decisions.\nHydration habits improve energy.\nSunlight boosts circadian rhythm.\nStrength training preserves muscle.\nLow-impact cardio improves endurance.\nMindful breathing reduces stress.\nScreen breaks avoid posture issues.\nProgress overload slowly.\nBetter sleep = better health.\nHabit stacking improves consistency.\nTrack progress weekly.\nHealth is a long-term journey.",
+    "image": "https://img.freepik.com/free-vector/campaign-stay-home-with-couple-vector-illustration-design_24877-62760.jpg?w=1480",
+    "profileImage": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?w=1060",
+    "date": "2025-01-02",
+    "__v": 0
+  },
+  {
+    "_id": "4",
+    "title": "Understanding Cloud Computing in Simple Words",
+    "author": "Michael Lee",
+    "categories": "Tech",
+    "shortDescription": "Cloud explained for beginners.",
+    "description": "Understanding Cloud Computing in Simple Words explains how cloud systems power modern applications.\nBusinesses are shifting fully to cloud-native apps.\nEdge computing reduces latency.\nSecurity and compliance matter.\nDevelopers rely on automation.\nOpen standards ensure compatibility.\nMonitoring and observability keep apps healthy.",
+    "image": "https://img.freepik.com/free-vector/illustration-people-avatar-cloud-connection-concept_53876-37134.jpg?w=1480",
+    "profileImage": "https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129417.jpg?w=1060",
+    "date": "2025-01-02",
+    "__v": 0
+  },
+  {
+    "_id": "5",
+    "title": "Is Vegan Diet Really Healthier?",
+    "author": "Dr. Angela White",
+    "categories": "Health",
+    "shortDescription": "Pros and cons of switching to vegan food.",
+    "description": "Is Vegan Diet Really Healthier? discusses practical ways to adopt healthy plant-based habits.\nTrack sleep, hydration, steps.\nGradual routine beats aggressive changes.\nWarm-ups and cool-downs prevent injuries.\nFocus on fiber and protein.\nPlan meals ahead.\nHydrate regularly.\nSunlight boosts mood.\nStrength + cardio improves health.\nMindfulness reduces stress.\nBetter posture prevents strain.\nSleep well.\nBuild habits slowly.\nCelebrate progress.",
+    "image": "https://img.freepik.com/free-vector/flat-background-world-vegetarian-day_23-2149612310.jpg?w=1480",
+    "profileImage": "https://img.freepik.com/free-photo/woman-doctor-wearing-white-coat-with-stethoscope-looking-tired-blowing-her-cheeks-standing_141793-19462.jpg?w=1060",
+    "date": "2025-01-02",
+    "__v": 0
+  },
+  {
+  "_id": "6",
+  "title": "How to Start Learning JavaScript in 2025",
+  "author": "Daniel Harris",
+  "categories": "Tech",
+  "shortDescription": "A practical roadmap for JavaScript beginners.",
+  "description": "How to Start Learning JavaScript in 2025 provides a step-by-step roadmap for beginners.\nStart with understanding variables, loops, and functions.\nMove into DOM manipulation to make interactive UI.\nPractice with small projects like calculators and to-do apps.\nLearn ES6+ features such as arrow functions, promises, and modules.\nUse GitHub to store projects and track progress.\nBuild confidence with API fetching using fetch and axios.\nExplore frameworks after mastering fundamentals.\nStay consistent and build daily.\nJavaScript grows with you—just start small and keep moving!",
+  "image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-8786.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/smiley-man-portrait_23-2148811035.jpg?w=1060",
+  "date": "2025-01-03",
+  "__v": 0
+},
+{
+  "_id": "7",
+  "title": "Work From Home Productivity Tips",
+  "author": "Linda Brown",
+  "categories": "Lifestyle",
+  "shortDescription": "Simple habits to stay productive while working remotely.",
+  "description": "Work From Home Productivity Tips highlights small habits that increase efficiency.\nSet a dedicated workspace.\nUse time blocks to manage tasks.\nTake micro-breaks to prevent burnout.\nHydrate and keep movement breaks.\nCommunicate clearly with your team.\nLimit distractions using focus apps.\nReview your day every evening.\nHealthy routines improve both work and life.",
+  "image": "https://img.freepik.com/free-vector/work-home-concept-illustration_114360-4132.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/happy-asian-woman-close-up-portrait_23-2148234194.jpg?w=1060",
+  "date": "2025-01-04",
+  "__v": 0
+},
+{
+  "_id": "8",
+  "title": "Top 7 UI/UX Trends to Follow in 2025",
+  "author": "Alex Turner",
+  "categories": "Design",
+  "shortDescription": "New design trends shaping modern digital interfaces.",
+  "description": "Top 7 UI/UX Trends to Follow in 2025 explores the evolving digital design world.\nMinimal glassmorphism and soft shadows are rising.\nMicro-interactions improve user delight.\nAI-generated layouts speed up workflows.\nDark mode optimization remains essential.\nAccessibility-first design is becoming standard.\n3D illustrations and motion graphics increase engagement.\nDesigners who combine creativity with usability will succeed.",
+  "image": "https://img.freepik.com/free-vector/web-design-concept-illustration_114360-5174.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/portrait-young-man-black-shirt_144627-25091.jpg?w=1060",
+  "date": "2025-01-05",
+  "__v": 0
+},
+{
+  "_id": "9",
+  "title": "How to Manage Money in Your 20s",
+  "author": "Ryan Coleman",
+  "categories": "Finance",
+  "shortDescription": "A simple money management guide for young adults.",
+  "description": "How to Manage Money in Your 20s teaches essential financial skills.\nTrack your expenses monthly.\nFollow the 50-30-20 budgeting rule.\nAvoid high-interest debt.\nStart an emergency fund.\nInvest consistently in low-risk index funds.\nLearn basic tax and insurance concepts.\nFinancial freedom starts with small, persistent habits.",
+  "image": "https://img.freepik.com/free-vector/flat-design-saving-money-concept-with-coins_23-2149174216.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/portrait-young-man-with-glasses_23-2148856203.jpg?w=1060",
+  "date": "2025-01-06",
+  "__v": 0
+},
+{
+  "_id": "10",
+  "title": "Beginner’s Guide to Healthy Skin",
+  "author": "Dr. Sophia Wells",
+  "categories": "Health",
+  "shortDescription": "Daily skincare habits for glowing, healthy skin.",
+  "description": "Beginner’s Guide to Healthy Skin explains simple routines everyone can follow.\nCleanse gently twice a day.\nHydrate with water-based moisturizers.\nUse sunscreen daily.\nAvoid harsh scrubs and products.\nEat fruits and vegetables for skin health.\nSleep well to reduce inflammation.\nConsistency—not expensive products—creates results.",
+  "image": "https://img.freepik.com/free-vector/skin-care-concept-illustration_114360-5444.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/beautiful-smiling-young-woman_23-2148302748.jpg?w=1060",
+  "date": "2025-01-07",
+  "__v": 0
+},
+{
+  "_id": "11",
+  "title": "Mastering React in 2025: A Complete Beginner Roadmap",
+  "author": "Jonathan Reed",
+  "categories": "Tech",
+  "shortDescription": "A clear roadmap for mastering React from zero to advanced.",
+  "description": "Mastering React in 2025 outlines the most effective way to learn modern React.\nStart with JavaScript fundamentals—arrays, functions, async, and modules.\nUnderstand JSX and component structures.\nLearn props, state, and event handling.\nMove to hooks like useState, useEffect, useRef, and custom hooks.\nPractice with mini-projects such as counters, forms, and API fetching.\nUnderstand React Router for navigation.\nLearn state management using Context API, Redux Toolkit, or Zustand.\nOptimize performance with memoization and lazy loading.\nDeploy apps using Vercel or Netlify.\nBuild a portfolio with 5–7 real-world projects.\nReact expertise grows through consistent practice and real debugging experience.",
+  "image": "https://img.freepik.com/free-vector/react-native-concept-illustration_114360-5069.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/handsome-businessman-with-tablet_23-2148811050.jpg?w=1060",
+  "date": "2025-01-08",
+  "__v": 0
+},
+{
+  "_id": "12",
+  "title": "How to Improve Your English Speaking in 30 Days",
+  "author": "Rachel Morgan",
+  "categories": "Education",
+  "shortDescription": "Simple daily habits to become a confident English speaker.",
+  "description": "How to Improve Your English Speaking in 30 Days gives a structured, friendly plan.\nStart with daily reading to build vocabulary.\nListen to English podcasts for natural pronunciation.\nPractice speaking 15 minutes a day using real-life topics.\nShadow native speakers to improve fluency.\nUse simple grammar first—focus on clarity, not perfection.\nRecord your voice to track improvement.\nLearn idioms and commonly used expressions.\nUse English in your daily tasks—thinking, writing notes, or chatting.\nMistakes are part of the journey; confidence grows with practice.\nConsistency for 30 days transforms your speaking ability.",
+  "image": "https://img.freepik.com/free-vector/english-language-learning-concept-illustration_114360-7458.jpg?w=1480",
+  "profileImage": "https://img.freepik.com/free-photo/woman-wearing-headphones-talking-online-meeting_23-2149020503.jpg?w=1060",
+  "date": "2025-01-09",
+  "__v": 0
+}
+
+]
